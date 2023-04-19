@@ -1,4 +1,4 @@
-uni;curso;email;jogo;equipa;nome
+uni;curso;email;jogo;equipa;nome;other_info
 sim;Gestão das organizações desportivas;Joao.vaz0510@gmail.com;fifa;Esgaio e companhia;Joao Vaz
 sim;Comunicação e multimédia;dmssalgueiro@gmail.com;fifa;SMDS;Diogo Salgueiro
 sim;Eng.Inf.;11109322@lis.ulusiada.pt;fifa;lentricas;Ibo Ribeiro
@@ -18,3 +18,5 @@ nao;null;fc56775@alunos.fc.ul.pt;lol;Unstoppable Lions;ZZG D4rtaine//Taif//Sp1ri
 sim:Eng.Inf.;franciscofigueiredo22@gmail.com;fifa;Joga Nada FC;Eu (Francisco Figueiredo)
 sim:GOD;duarteclara2003@gmail.com;fifa;Cala-te e joga FC;Duarte Clara
 sim:Eng.Inf;lourorafael2004@gmail.com;RL;Txekele;Jonathan Damasceno - Jalambi//Jorge Louro - Tododuckie_
+sim;Psicologia;tiagoronconpimenta@gmail.com;csgo;N0 TIM3;Tiago Pimenta- P1M3NT4//André Bolrinhas- Androxe//Rui Rodrigues- RiXx_//João Gomes- --hiden//Vasco- draco6001
+;;;;;;3LOL//2CSGO//13FIFA//6RL
