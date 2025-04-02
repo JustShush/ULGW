@@ -14,6 +14,9 @@ REM Define the applications (Name|Download URL|Filename|Install Arguments)
 set apps[0]=Steam|https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe|SteamSetup.exe|/S
 set apps[1]=Discord|https://discord.com/api/download?platform=win|DiscordSetup.exe|/S
 set apps[2]=Chrome|https://dl.google.com/chrome/install/latest/chrome_installer.exe|ChromeSetup.exe|/silent /install
+set apps[3]=Riot Client|https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.euw.exe|RiotClientInstaller.exe|/S
+set apps[4]=League of Legends|https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.euw.exe|LeagueInstaller.exe|/S
+
 
 REM Loop through the apps and download/install them
 for /L %%i in (0,1,5) do (
